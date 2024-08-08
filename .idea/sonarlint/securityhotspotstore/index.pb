@@ -9,3 +9,13 @@ W
 0src/main/java/org/example/entity/UserEntity.java,0\9\09e5e049b79ee66b951c0fb13d9b90f260ced08d
 h
 8src/main/java/org/example/controller/UserController.java,b\7\b713bf81ec595e3f695a79200fb78c8915c34789
+b
+2src/main/java/org/example/service/UserService.java,0\a\0a429d57c61a30e0b0d20ccf1326f3bddfab3779
+k
+;src/main/java/org/example/service/impl/UserServiceImpl.java,0\f\0f9a3cfff188848eed2ca2aef911196056ecbe61
+Å
+Q.idea/sonarlint/securityhotspotstore/0/a/0a429d57c61a30e0b0d20ccf1326f3bddfab3779,d\1\d10ad70e32a1ea521c09782b83b931c6a8da389b
+Å
+Q.idea/sonarlint/securityhotspotstore/0/f/0f9a3cfff188848eed2ca2aef911196056ecbe61,a\1\a170e102f2c44cf9f7c69d7ff27da9bc51344e51
+w
+G.idea/sonarlint/issuestore/0/a/0a429d57c61a30e0b0d20ccf1326f3bddfab3779,0\4\047c98878515bb71d548a819835ce8e1547c0bb5
